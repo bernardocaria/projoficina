@@ -1,0 +1,43 @@
+#topo{
+	width: 90%;
+	margin-left: 5%;
+	height: 150px;
+}
+#logo{
+	float: left;
+	width: 15%;
+}
+#slogan{
+	float: right;
+	width: 85%;
+	text-align: center;
+}
+#logo img{
+	content:url("../img/logo.jpg");
+}
+#form_registo{
+	width: 60%;
+	margin-left: 20%;
+}
+#tabela_dados{
+	width: 60%;
+	margin-left: 20%;
+}
+
+
+
+
+
+.bg-image-vertical {
+	position: relative;
+	overflow: hidden;
+	background-repeat: no-repeat;
+	background-position: right center;
+	background-size: auto 100%;
+	}
+	
+	@media (min-width: 1025px) {
+	.h-custom-2 {
+	height: 100%;
+	}
+	}
